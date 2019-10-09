@@ -3,5 +3,4 @@ const solution = (n) => {
     return tempString.repeat(n).substr(0,n);
 }
 
-
 console.log(solution(3));
